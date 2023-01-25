@@ -1,0 +1,26 @@
+.btn-primary{
+    background-color: #B68C5A;
+    border-color:#B68C5A;
+}
+.font-style{
+    font-family: 'EB Garamond';
+}
+.img-awlad{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}
+.banner{
+    background-image: url("images/Rectangle 6.png");
+    height: 500px;
+    width: 1120px;
+}
+.form-extra .form-control{
+    position: absolute;
+    left: 450px;
+}
+.form-extra .btn{
+    position: absolute;
+    left: 800px;
+}
